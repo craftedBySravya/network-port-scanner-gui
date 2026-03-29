@@ -108,17 +108,28 @@ Ports not listed are shown as **Unknown**.
 
 ## Project Structure
 
+## Project Structure
+
 ```
 network-port-scanner-gui/
 │
 ├── portscanergui.py
 ├── README.md
+├── PORT_SCAN_REPORT.md
+│
+└── screenshots/
+    └── output.png
 ```
 ## Sample Output
 
 Below is an example of the port scanning results:
 
 ![Output Screenshot](screenshots/output.png)
+
+## Project Documentation
+
+Additional analysis report available here:
+[Port Scan Report](PORT_SCAN_REPORT.md)
 
 ## Applications
 

@@ -114,6 +114,11 @@ network-port-scanner-gui/
 ├── portscanergui.py
 ├── README.md
 ```
+## Sample Output
+
+Below is an example of the port scanning results:
+
+![Output Screenshot](screenshots/output.png)
 
 ## Applications
 
@@ -149,7 +154,7 @@ Do not scan systems or networks without proper authorization. Unauthorized scann
 
 ## Author
 
-Pagolu Sravya
+Pagolu Sravya  
 BTech CSE (Cyber Security & Digital Forensics)  
 National Forensic Sciences University
 
